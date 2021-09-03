@@ -5,14 +5,17 @@ Creating an SVM classifier for SMS spam detection
 This project deals with creating a Support Vector Machine classifier for detecting spam and ham SMS texts. The goal was to explore and understand the math behind SVMs, while practically implementing it for this fun application. 
 
 The _Jupyter Notebook_ version of the implementation provides a step-by-step understanding of model creation, while the _Web Application_ is an interactive GUI that allows a user to test the working of the model by entering an SMS text.  
-
+ 
+ 
 ## Dataset Used
 The [SMS Spam Collection Dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset) from Kaggle has been used for training and testing.
+
 
 ## Workflow 
 ![image](https://user-images.githubusercontent.com/60460452/131988785-7a6ee60e-0489-4e75-883a-5102dbb1658c.png)
 
 ***General Workflow of Implementation***
+
 
 ## Steps to run the GUI
 1. Download all files present in the folder ***Web Application***. These contain the saved models and vectorizers on which the GUI will run.
